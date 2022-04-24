@@ -1,6 +1,6 @@
 ## Halperin Group Data Repository
 
-A publicaly accessible repository for published data from the Ultra-Low Temperature Physics group of Prof. William Halperin 
+A publicly accessible repository for published data from the Ultra-Low Temperature Physics group of Prof. William Halperin.
 <!--
 
 **Here are some ideas to get you started:**
