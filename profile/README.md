@@ -1,6 +1,6 @@
-## Halperin Group at Northwestern University
+## Halperin Group Data Repository
 
-Data repository for the Ultra-Low Temperature Physics Group. 
+A publicaly accessible repository for published data from the Ultra-Low Temperature Physics group of Prof. William Halperin 
 <!--
 
 **Here are some ideas to get you started:**
